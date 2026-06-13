@@ -45,8 +45,6 @@
 
 ## ◈ About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=aaravv22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9D79F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
-
 I am a **Computer Science & Engineering student** at SRM Institute of Science and Technology, Chennai, currently in my 2nd year, with a focused interest in building intelligent, AI-augmented full stack applications.
 
 I approach engineering with a **product mindset** — I care about what ships, what scales, and what solves real problems. My work spans full stack web development, applied AI integration, and real-world systems built under pressure in hackathons and institutional projects.
@@ -273,52 +271,22 @@ Gained industry exposure at one of India's largest and most storied steel manufa
 
 ---
 
-## ◈ GitHub Analytics
+## ◈ Skill Proficiency
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaravv22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9D79F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravv22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=9D79F7&text_color=C4B5FD&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravv22&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=9D79F7&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=9D79F7&sideNums=C4B5FD" width="60%"/>
-
-</div>
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aaravv22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Aarav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaravv22&bg_color=0D0D1A&color=9D79F7&line=7C3AED&point=C4B5FD&area=true&hide_border=true&area_color=4F46E5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ◈ Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaravv22/aaravv22/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaravv22/aaravv22/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aaravv22/aaravv22/output/github-contribution-grid-snake.svg">
-</picture>
+```text
+TypeScript / JavaScript  ████████████████░░░░  80%
+React.js / Next.js       ███████████████░░░░░  75%
+Python                   ██████████████░░░░░░  70%
+Node.js / Express        █████████████░░░░░░░  65%
+Generative AI / LLMs     ████████████████░░░░  80%
+Tailwind CSS             ████████████████░░░░  80%
+PostgreSQL               ██████████░░░░░░░░░░  50%
+AWS / Cloud              ████████████░░░░░░░░  60%
+Git / GitHub             ███████████████░░░░░  75%
+C / Java                 ████████████░░░░░░░░  60%
+```
 
 </div>
 

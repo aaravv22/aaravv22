@@ -16,7 +16,7 @@
 
 ![Student](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
 ![University](https://img.shields.io/badge/SRM%20IST-Chennai%2C%20India-6D28D9?style=for-the-badge&logo=university&logoColor=white)
-![Location](https://img.shields.io/badge/Chennai-Tamil%20Nadu%2C%20India-4F46E5?style=for-the-badge&logo=google-maps&logoColor=white)
+![Location](https://img.shields.io/badge/Ludhiana-Punjab%2C%20India-4F46E5?style=for-the-badge&logo=google-maps&logoColor=white)
 
 </div>
 
@@ -33,13 +33,7 @@
 
 <br/>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaravv22&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/aaravv22?style=for-the-badge&color=6D28D9&logo=github&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/aaravv22?style=for-the-badge&color=4F46E5&logo=github&label=STARS)
-
-</div>
 
 ---
 
